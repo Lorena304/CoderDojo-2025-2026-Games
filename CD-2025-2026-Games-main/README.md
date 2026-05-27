@@ -28,7 +28,7 @@ A 3D platformer focusing on first-person and third person movement mechanics. Th
 - **Look Around:** Use the `Mouse` to look around.
 - **Pause/Unpause:** Press the `P` key.
 
-### 🚀 [Try it yourself](https://chuckthetanker.github.io/CoderDojo-Games-Portfolio-2026/3DPlatformerWebGLBuild/)
+### 🚀 [Try it yourself](https://chuckthetanker.github.io/CoderDojo-Games-Portfolio-2026/3DPlatformerWebGLBuild/index.html)
 
 ---
 
@@ -56,7 +56,7 @@ A 3D break braker game built using **Unity & C#**. This project focuses on 3D co
 - **Movement:** Use `A` and `D` keys to control the paddle position and redirect the ball.
 - **Pause/Unpause:** Press the `P` key.
 
-### 🚀 [Try it yourself](https://chuckthetanker.github.io/CoderDojo-Games-Portfolio-2026/BreakBreaker3DWebGLBuild/)
+### 🚀 [Try it yourself](https://chuckthetanker.github.io/CoderDojo-Games-Portfolio-2026/BreakBreaker3DWebGLBuild/index.html)
 
 ---
 
@@ -81,7 +81,7 @@ A 2-player competitive game built using **Unity & C#**. The project focuses on l
 - **Player 1 (Red Paddle 🟥):** `W` (Up) / `S` (Down)
 - **Player 2 (Blue Paddle 🟦):** `↑` (Up Arrow) / `↓` (Down Arrow)
 
-### 🚀 [Try it yourself](https://anamariavoineag.github.io/CD-2025-2026-Games/PongGameWebGLBuild/)
+### 🚀 [Try it yourself](https://anamariavoineag.github.io/CD-2025-2026-Games/PongGameWebGLBuild/index.html)
 
 ---
 
@@ -106,4 +106,4 @@ A hidden object game where players must find cats within various scenes. This pr
 
 - **Start Game:** Press the `S` key to start counting cats.
 
-### 🚀 [Try it yourself](https://lorena304.github.io/Spot-the-cats-demo/Spot-the-cats-demo/)
+### 🚀 [Try it yourself](https://lorena304.github.io/Spot-the-cats-demo/Spot-the-cats-demo/index.html)
